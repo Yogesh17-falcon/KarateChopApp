@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KarateChopApp/static/css/main.7815e64f.chunk.css",
+    "main.js": "/KarateChopApp/static/js/main.464ab218.chunk.js",
+    "main.js.map": "/KarateChopApp/static/js/main.464ab218.chunk.js.map",
+    "runtime-main.js": "/KarateChopApp/static/js/runtime-main.c6c921a9.js",
+    "runtime-main.js.map": "/KarateChopApp/static/js/runtime-main.c6c921a9.js.map",
+    "static/js/2.63447afd.chunk.js": "/KarateChopApp/static/js/2.63447afd.chunk.js",
+    "static/js/2.63447afd.chunk.js.map": "/KarateChopApp/static/js/2.63447afd.chunk.js.map",
+    "static/js/3.a4f84110.chunk.js": "/KarateChopApp/static/js/3.a4f84110.chunk.js",
+    "static/js/3.a4f84110.chunk.js.map": "/KarateChopApp/static/js/3.a4f84110.chunk.js.map",
+    "index.html": "/KarateChopApp/index.html",
+    "static/css/main.7815e64f.chunk.css.map": "/KarateChopApp/static/css/main.7815e64f.chunk.css.map",
+    "static/js/2.63447afd.chunk.js.LICENSE.txt": "/KarateChopApp/static/js/2.63447afd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6c921a9.js",
+    "static/js/2.63447afd.chunk.js",
+    "static/css/main.7815e64f.chunk.css",
+    "static/js/main.464ab218.chunk.js"
+  ]
+}
